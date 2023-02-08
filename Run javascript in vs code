@@ -2,7 +2,7 @@ Download Babel javascript extension in vs code extension section
 install node.js from official website as per your os like windows , linux , mac etc
 create a file in vscode like index.js 
 write your javascript code for example console.log("hello world");
-Go to terminal 
+Go to terminal of vs code shortcut key is ( ctrl + ` )
 type node index.js ( file name ) and enter
 your javascript code will run on vs code 
 console.log("enjoy");
